@@ -1,0 +1,28 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: fira sans, Arial, Helvetica, sans-serif;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin: 0px;
+  padding: 0px;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+  padding: 0px;
+  margin: 0px;
+}
